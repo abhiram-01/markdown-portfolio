@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of my favourite things
+* Chicken Biryani
+* Mobile phone
+* Photography
